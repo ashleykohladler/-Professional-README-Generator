@@ -1,6 +1,7 @@
 // TODO: Include packages needed for this application
 const inquirer = require('inquirer');
 const fs = require('fs');
+
 // const util = require('util');
 
 // TODO: Create an array of questions for user input
@@ -116,7 +117,7 @@ inquirer
   ${questions.email}
 
   # Code
-  ![Changed HTML](./assets/images/code1.png)
+  ![Demo of README](./images/README.gif)
   
   `, (err) =>
         err ? console.log(err) : console.log('Success!'))

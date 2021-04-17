@@ -1,7 +1,7 @@
 
 
   # Project Title 
-  C
+  Readme Generator
 
   ## Table of Contents
   1. [Title](#Title)
@@ -15,29 +15,29 @@
 
 
   # Description 
-  D
+  Created a command-line application that dynamically generates a professional README.md file from a user's input using the Inquirer package.
 
   # Installation
-  E
+  npm i
 
   # Usage
-  G
+  
 
   # License
   ![badge](https://img.shields.io/badge/license-MIT-brightgreen)
   
   # Tests
-  F
+  npm tests
 
   # Questions:
   ## GitHub User name 
-  A
+  ashleykohladler
   ### To access the website go to https://github.com/ashleykohladler/Professional-README-Generator
 
-  ## Email address 
-  B
+  ### Email address 
+  akohl22@gmail.com
 
   # Code
-  ![Changed HTML](./assets/images/code1.png)
+  ![Demo of README](./images/README.gif)
   
   

@@ -2,6 +2,8 @@
 const inquirer = require('inquirer');
 const fs = require('fs');
 
+const path = require('path');
+
 // const util = require('util');
 
 // TODO: Create an array of questions for user input
@@ -77,7 +79,7 @@ inquirer
 
 .then((questions) =>
 
-  fs.writeFile("README.md", `
+  fs.writeFile(path.join(process.cwd(), "README.md"), `
 
   # Project Title 
   ${questions.projectName}

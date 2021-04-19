@@ -38,6 +38,6 @@
   akohl22@gmail.com
 
   # Code
-  ![Demo of README](./images/README.gif)
+  ![Demo of README](./Develop/images/README.gif)
   
   
